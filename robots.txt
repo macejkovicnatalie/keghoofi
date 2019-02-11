@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahmieph.theconditionsforinvention.com/sitemap.xml
